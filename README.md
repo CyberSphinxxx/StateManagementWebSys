@@ -4,7 +4,7 @@ A simple, interactive web project by **John Lemar Gonzales** exploring how state
 
 This project is composed of 4 hands-on activities demonstrating various types of state management such as local state, visibility toggling, and simulated global state sharing.
 
-🔗 [Live Demo](#)  
+🔗 [Live Demo](https://state-management-web-sys.vercel.app)  
 📁 [Project Repository](https://github.com/CyberSphinxxx/StateManagementWebSys)
 
 ---
