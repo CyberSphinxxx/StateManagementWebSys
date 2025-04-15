@@ -5,6 +5,16 @@
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
+html {
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
 body {
     background: linear-gradient(135deg, #e6f0fa 0%, #f7f9fc 100%);
     overflow-y: scroll;
