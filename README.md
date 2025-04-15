@@ -9,16 +9,6 @@ This project is composed of 4 hands-on activities demonstrating various types of
 
 ---
 
-## 📚 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Activities](#activities)
-- [Technologies Used](#technologies-used)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## 📌 About the Project
 
 This project focuses on the concept of **state management** in web applications. State refers to the data or properties that determine how a web application behaves at a given time. Understanding how to manage state effectively is key to creating dynamic, responsive web interfaces.
